@@ -1,3 +1,4 @@
-# Brooklen Ashleigh
-# October 2022
-# CS210 (C++) Repo
+# Creator Information
+> Brooklen Ashleigh
+> **Creation Date:** October, 2022
+> **Class:** CS210
