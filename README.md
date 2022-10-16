@@ -1,4 +1,4 @@
-# Creator Information
-> Brooklen Ashleigh
-> **Creation Date:** October, 2022
-> **Class:** CS210
+# Creator Information  
+> Brooklen Ashleigh  
+> **Creation Date:** October, 2022  
+> **Class:** CS210  
